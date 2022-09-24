@@ -1,0 +1,13 @@
+main:
+  - name: ABOUT
+    url: '#about'
+    weight: 1
+  - name: PROJECTS
+    url: /projects/
+    weight: 2
+  - name: CV
+    url: /cv/
+    weight: 3
+  - name: VITA
+    weight: 4
+    url: https://vita-group.github.io/

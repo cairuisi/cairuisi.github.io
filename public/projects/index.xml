@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on RUISI CAI</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on RUISI CAI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Ruisi Cai 蔡睿思
+</copyright>
+    <lastBuildDate>Fri, 23 Sep 2022 19:41:22 -0500</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Randomized Channel Shuffling, Minimal-Overhead Backdoor Attack Detection without Clean Datasets</title>
+      <link>/projects/randomized_channel_shuffling/</link>
+      <pubDate>Fri, 23 Sep 2022 19:41:22 -0500</pubDate>
+      
+      <guid>/projects/randomized_channel_shuffling/</guid>
+      <description>Deep neural networks (DNNs) typically require massive data to train on, which is a hurdle for numerous practical domains. Facing the data shortfall, one viable option is to acquire domains-specific training data from external uncensored sources, such as the open web or the third-party data collectors. However, the quality of such acquired data is often not rigorously scrutinized, and one cannot easily rule out the risk of &amp;ldquo;poisoned&amp;rdquo; examples being included in such unreliable datasets, resulting in unreliable models which pose potential risks to many data-hungry, or high-stake applications.</description>
+    </item>
+    
+  </channel>
+</rss>

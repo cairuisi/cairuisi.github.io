@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RUISI CAI</title>
+    <link>/</link>
+    <description>Recent content on RUISI CAI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2022 Ruisi Cai 蔡睿思
+</copyright>
+    <lastBuildDate>Fri, 23 Sep 2022 19:41:22 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Fri, 23 Sep 2022 19:41:22 -0500</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Education 2022-Present Ph.D in Electrical and Computer Engineering, the University of Texas at Austin
+2018-2022 B.E. in Electronic Information Engineering, University of Science and Technology of China
+Research Experience 2022.9 - present The University of Texas at Austin Graduate research assistant, advised by Prof. Atlas Wang. 2021.7 - 2022.6 The University of Texas at Austin Remote research intern, advised by Prof. Atlas Wang. Found that clean image features and trigger features are different in terms of their activation distribution in channels, as well as their sensitivity to channel re-ordering.</description>
+    </item>
+    
+    <item>
+      <title>Randomized Channel Shuffling, Minimal-Overhead Backdoor Attack Detection without Clean Datasets</title>
+      <link>/projects/randomized_channel_shuffling/</link>
+      <pubDate>Fri, 23 Sep 2022 19:41:22 -0500</pubDate>
+      
+      <guid>/projects/randomized_channel_shuffling/</guid>
+      <description>Deep neural networks (DNNs) typically require massive data to train on, which is a hurdle for numerous practical domains. Facing the data shortfall, one viable option is to acquire domains-specific training data from external uncensored sources, such as the open web or the third-party data collectors. However, the quality of such acquired data is often not rigorously scrutinized, and one cannot easily rule out the risk of &amp;ldquo;poisoned&amp;rdquo; examples being included in such unreliable datasets, resulting in unreliable models which pose potential risks to many data-hungry, or high-stake applications.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/docs/example-doc/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 1</title>
+      <link>/docs/example-doc/nested-chapter/chapter-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/nested-chapter/chapter-1/</guid>
+      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/docs/example-doc/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>/docs/example-doc/nested-chapter/chapter-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example-doc/nested-chapter/chapter-2/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
