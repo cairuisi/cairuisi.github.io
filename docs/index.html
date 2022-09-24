@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html
+  lang="en"
+  dir="ltr"
+  
+><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<title>RUISI CAI</title>
+
+<meta name="generator" content="Hugo Eureka 0.9.3" />
+<link rel="stylesheet" href="/css/eureka.min.9cec6350e37e534b0338fa9a085bf06855de3b0f2dcf857e792e5e97b07ea905d4d5513db554cbc26a9c3da622bae92d.css">
+<script defer src="/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+  href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&amp;family=Noto&#43;Serif&#43;SC:wght@400;600;700&amp;display=swap"
+  as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/styles/base16/solarized-light.min.css"
+   media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/highlight.min.js"
+   crossorigin></script>
+  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/dart.min.js"
+     crossorigin></script>
+<link rel="stylesheet" href="/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css" media="print" onload="this.media='all';this.onload=null">
+
+
+<script defer type="text/javascript" src="/js/fontawesome.min.173caf5811f804bf2d43f8106beadead5935d403fb826f5a7176d5c669cee1fbb7e3fd172f63863bca501676b7222360.js"></script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
+   integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ"  media="print"
+  onload="this.media='all';this.onload=null" crossorigin>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js" 
+  integrity="sha384-VQ8d8WVFw0yHhCk5E8I86oOhv48xLpnDZx5T9GogA/Y84DcCKWXDmSDfn13bzFZY"  crossorigin></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js"
+   integrity="sha384-&#43;XBljXPPiv&#43;OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"  crossorigin></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+        { left: "\\[", right: "\\]", display: true }
+      ],
+    });
+  });
+</script>
+
+
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@8.14.0/dist/mermaid.min.js" 
+  integrity="sha384-atOyb0FxAgN9LyAc6PEf9BjgwLISyansgdH8/VXQH8p2o5vfrRgmGIJ2Sg22L0A0"  crossorigin></script>
+
+
+<link rel="icon" type="image/png" sizes="32x32" href="/images/icon_hu9c7836522c8f6aa04da29f1001328c60_78146_32x32_fill_q75_box_center.jpeg">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu9c7836522c8f6aa04da29f1001328c60_78146_180x180_fill_q75_box_center.jpeg">
+
+<meta name="description"
+  content="Eureka is a elegant and powerful theme for Hugo.">
+
+
+
+<meta property="og:title" content="RUISI CAI" />
+<meta property="og:type" content="website" />
+
+
+<meta property="og:image" content="/images/icon.jpeg">
+
+
+<meta property="og:url" content="/" />
+
+
+
+
+
+<meta property="og:description" content="Eureka is a elegant and powerful theme for Hugo." />
+
+
+
+
+
+<meta property="og:locale" content="en" />
+
+
+
+
+<meta property="og:site_name" content="RUISI CAI" />
+
+
+
+
+
+
+<meta property="og:updated_time" content="2022-09-23T19:41:22-05:00" />
+
+
+
+<meta property="article:section" content="" />
+
+
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="RUISI CAI" />
+
+
+  <body class="flex min-h-screen flex-col">
+    <header
+      class="min-h-16 pl-scrollbar bg-secondary-bg fixed z-50 flex w-full items-center shadow-sm"
+    >
+      <div class="mx-auto w-full max-w-screen-xl"><script>
+    let storageColorScheme = localStorage.getItem("lightDarkMode")
+    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
+        document.getElementsByTagName('html')[0].classList.add('dark')
+    }
+</script>
+<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
+    <a href="/" class="me-6 text-primary-text text-xl font-bold">RUISI CAI</a>
+    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div id="target"
+        class="hidden block md:flex md:grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
+        <div class="md:flex md:h-16 text-sm md:grow pb-4 md:pb-0 border-b md:border-b-0">
+            <a href="/#about" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">ABOUT</a>
+            <a href="/projects/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">PROJECTS</a>
+            <a href="/cv/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">CV</a>
+            <a href="https://vita-group.github.io/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  me-4">VITA</a>
+        </div>
+
+        <div class="flex">
+            <div class="relative pt-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
+                    <i class="fas fa-adjust"></i>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='lightDarkOptions'>
+                    <span class="px-4 py-1 hover:text-eureka" name="Light">Light</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Dark">Dark</span>
+                    <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
+    </div>
+
+</nav>
+<script>
+    
+    let element = document.getElementById('lightDarkMode')
+    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+        document.addEventListener('DOMContentLoaded', () => {
+            window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', switchDarkMode)
+        })
+    } else if (storageColorScheme == "Light") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'sun')
+        element.firstElementChild.classList.add('fa-sun')
+    } else if (storageColorScheme == "Dark") {
+        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.setAttribute("data-icon", 'moon')
+        element.firstElementChild.classList.add('fa-moon')
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        getcolorscheme();
+        switchBurger();
+    });
+</script>
+</div>
+    </header>
+    <main class="grow pt-16">
+  
+  
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-secondary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="about"
+        class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      <div class="mb-12 flex flex-col items-center justify-center md:flex-row">
+  
+  
+    <div class="md:ms-0 md:me-8 md:pe-8 md:border-e mx-auto w-48 flex-none">
+      <img src="/images/icon.jpeg" class="rounded-full" alt="Avatar" />
+    </div>
+  
+  <div class="mt-4 w-full grow md:mt-0">
+    <h1 class="py-4 text-3xl">Ruisi Cai</h1>
+    <div class="w-3/12 border-b xl:w-2/12"></div>
+
+    <div class="flex items-center pt-4">
+      
+        <i class="fas fa-user"></i>
+      
+      <div class="flex flex-wrap">
+        
+          <span class="ps-4">Ph.D Student</span>
+        
+
+        
+          <a href="https://www.utexas.edu/" class="ps-4">UT Austin</a>
+        
+      </div>
+    </div>
+
+    
+  </div>
+  <div class="md:ms-8 flex items-end justify-center md:flex-col">
+    
+    
+      
+      
+      
+      
+      
+      <div class="mx-2 mb-2 mt-4 md:mx-0 md:mt-2">
+        <a href="mailto:ruisi.cai@utexas.edu"><i class="fas fa-envelope"></i></a>
+      </div>
+    
+      
+      
+      
+      
+      
+      <div class="mx-2 mb-2 mt-4 md:mx-0 md:mt-2">
+        <a href="https://github.com/cairuisi"><i class="fab fa-github"></i></a>
+      </div>
+    
+  </div>
+</div>
+<div class="prose">
+  <h2 id="about-me">About Me</h2>
+<p>I&rsquo;m a first year Ph.D. student in the <a href="https://vita-group.github.io/">VITA Group</a> of <a href="https://www.ece.utexas.edu/">Electrical and Computer Engineering Department</a>, <a href="https://www.utexas.edu/">the Univeristiy of Texas at Austin</a>, under the supervision of Prof. Zhangyang (Atlas) Wang. Prior to that, I obatined my B.E. degree from <a href="http://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>.</p>
+<p>My research focus on computer vision and deep learning, especially trustworthy machine learning systems, backdoor attack and adversarial robustness.</p>
+<h2 id="news">NEWS</h2>
+<ul>
+<li>Sep, 2022. My paper &ldquo;Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets&rdquo; is accepted by <strong>NeurIPS2022</strong>!</li>
+<li>Sep, 2022. My personal webpage is on!</li>
+</ul>
+
+</div>
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-primary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="pages"
+        class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+  <h2 class=" font-bold text-3xl my-4">Projects</h2>
+
+
+  
+  
+  <div class="overflow-hidden">
+    
+<div class="mb-6">
+  <div class="bg-secondary-bg rounded border hover:shadow-lg transition ease-in-out duration-200 px-6 pt-6 pb-4">
+  <div class="flex flex-col-reverse lg:flex-row justify-between">
+  
+  <div class="w-full ">
+    <div class="prose">
+  <a href="/projects/randomized_channel_shuffling/" class="no-underline">
+    <h3 class="mt-0">Randomized Channel Shuffling, Minimal-Overhead Backdoor Attack Detection without Clean Datasets</h3>
+  </a>
+  
+    Deep neural networks (DNNs) typically require massive data to train on, which is a hurdle for numerous practical domains. Facing the data shortfall, one viable option is to acquire domains-specific training data from external uncensored sources, such as the open web or the third-party data collectors. However, the quality of such acquired data is often not rigorously scrutinized, and one cannot easily rule out the risk of “poisoned” examples being included in such unreliable datasets, resulting in unreliable models which pose potential risks to many data-hungry, or high-stake applications.
+  
+
+  
+    <div
+  class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
+>
+  <div class="me-6 my-2">
+    <i class="fas fa-calendar me-1"></i>
+    <span
+      >2022-09-23</span
+    >
+  </div>
+  <div class="me-6 my-2">
+    <i class="fas fa-clock me-1"></i>
+    <span>2 min read</span>
+  </div>
+
+  
+
+  
+</div>
+
+  
+</div>
+
+  </div>
+
+  
+</div>
+</div>
+</div>
+
+    <div class="px-8 pt-2 hover:text-eureka">
+      
+  <a href="/projects/" class="font-semibold">Read More</a>
+  <i class='fas fa-caret-right ms-1'></i>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-primary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="experience"
+        class="lg:w-4/5 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+
+    
+    
+    
+    
+    
+      
+    
+    <div
+      class="lg:flex-row flex flex-col"
+    >
+      <div
+        class="lg:w-1/4 lg:me-4 flex-none"
+      >
+        <h2 class="my-4 text-3xl font-bold">Experience</h2>
+      </div>
+      <div
+        class="lg:ms-4 grow"
+      >
+        
+          
+          
+  <div class="mb-6">
+    <div
+      class="bg-secondary-bg prose dark:border-tertiary-bg rounded border p-6 transition duration-200 ease-in-out hover:shadow-lg"
+    >
+      <h3 class="">Graduate Research Assistant</h3>
+      <div class="flex flex-col md:flex-row md:justify-between">
+        <div>
+          
+            <span>Visual Informatics Group, UT Austin</span>
+          
+
+          
+
+
+          <span> </span>
+        </div>
+        <div class="shrink-0">2022.9 - Present</div>
+      </div>
+
+      <div class="mt-5"><ul>
+<li>Advised by Prof. Atlas Wang.</li>
+</ul>
+</div>
+    </div>
+  </div>
+
+  <div class="mb-6">
+    <div
+      class="bg-secondary-bg prose dark:border-tertiary-bg rounded border p-6 transition duration-200 ease-in-out hover:shadow-lg"
+    >
+      <h3 class="">Research Intern</h3>
+      <div class="flex flex-col md:flex-row md:justify-between">
+        <div>
+          
+            <span>Visual Informatics Group, UT Austin</span>
+          
+
+          
+
+
+          <span> </span>
+        </div>
+        <div class="shrink-0">2021.7 - 2022.6</div>
+      </div>
+
+      <div class="mt-5"><ul>
+<li>Advised by Prof. Atlas Wang.</li>
+<li>Found that clean image features and trigger features are different in terms of their activation distribution in channels, as well as their sensitivity to channel re-ordering.</li>
+<li>Proposed an effective approach with minimal overhead based on channel shuffling to help users detect backdoor attacks without the access to clean samples, nor the need to retrain models.</li>
+</ul>
+</div>
+    </div>
+  </div>
+
+  <div class="mb-6">
+    <div
+      class="bg-secondary-bg prose dark:border-tertiary-bg rounded border p-6 transition duration-200 ease-in-out hover:shadow-lg"
+    >
+      <h3 class="">Research Assistant</h3>
+      <div class="flex flex-col md:flex-row md:justify-between">
+        <div>
+          
+            <span>Intelligent Multimedia Content Computing Lab, USTC</span>
+          
+
+          
+
+
+          <span> </span>
+        </div>
+        <div class="shrink-0">2020.5 - 2021.5</div>
+      </div>
+
+      <div class="mt-5"><ul>
+<li>Advised by Prof. Dong Liu.</li>
+<li>Formulated a way to better utilize the super resolution results from neighboring frames, trying to achieve real-time performance.</li>
+<li>Proposed to roughly segment the image based on optical flow, and to only run super resolution methods on areas that change much.</li>
+</ul>
+</div>
+    </div>
+  </div>
+
+
+          
+        
+
+      </div>
+    </div>
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+  
+
+  
+  
+
+  
+
+
+  <div
+    class="pl-scrollbar bg-secondary-bg"
+    
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="vintage"
+        class=""
+      >
+        
+  
+
+  
+    
+      
+      <div class="grid grid-cols-9 grid-rows-5 h-(screen-16)">
+  <div class="col-start-2 col-span-4 row-start-3 row-span-2 bg-local bg-cover z-10 shadow-2xl"
+    style="background-image: url(/images/hero-left.jpg);"></div>
+
+  <div class="col-start-3 col-span-5 row-start-2 row-span-3 z-20">
+    <div class="flex flex-col items-center justify-center min-h-full">
+      <div class="bg-white bg-opacity-75 shadow-2xl -m-12 p-12">
+        <span class="font-bold text-black text-opacity-75 text-2xl md:text-3xl">Try everything.</span>
+      </div>
+    </div>
+  </div>
+  <div class="col-start-5 col-span-4 row-start-2 row-span-2 bg-local bg-cover shadow-2xl"
+    style="background-image: url(/images/hero-right.jpg);">
+  </div>
+</div>
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    
+      
+  
+
+  
+
+  
+  
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+  
+
+  
+  
+
+  
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+    
+    
+  
+
+
+  <div
+    class="pl-scrollbar bg-cover"
+    style="background-image: url(/images/hero-left.jpg);"
+  >
+    <div class="mx-auto max-w-screen-xl">
+      <div
+        id="blank"
+        class="lg:w-3/4 mx-auto px-6 md:px-8 xl:px-12 py-12"
+      >
+        
+  
+
+  
+    
+      
+      
+<div style="text-align:center">
+  <p>悟已往之不谏，知来者之可追。</p>
+</div>
+      
+    
+  
+
+      </div>
+    </div>
+  </div>
+
+    
+
+    
+  
+    </main>
+    <footer class="pl-scrollbar">
+      <div class="mx-auto w-full max-w-screen-xl"><div class="text-center p-6 pin-b">
+    <p class="text-sm text-tertiary-text">&copy; 2022 Ruisi Cai 蔡睿思
+ &middot;  Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+</div></div>
+    </footer>
+  </body>
+</html>
