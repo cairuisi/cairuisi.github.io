@@ -9,7 +9,7 @@ theme: eureka
 
 paginate: 3
 copyright: >
-  &copy; 2022- Ruisi Cai 蔡睿思
+  &copy; 2022 Ruisi Cai
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
