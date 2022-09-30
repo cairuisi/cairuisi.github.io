@@ -19,7 +19,7 @@ hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
 
 # Uncomment for google analytics
-googleAnalytics: trackinggithubpagesruisicai
+googleAnalytics: 4110424431
 
 markup:
   # Do not modify markup.highlight
