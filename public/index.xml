@@ -6,7 +6,7 @@
     <description>Recent content on RUISI CAI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2022 Ruisi Cai
+    <copyright>&amp;copy; 2022 Ruisi Cai 蔡睿思
 </copyright>
     <lastBuildDate>Fri, 23 Sep 2022 19:41:22 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -26,7 +26,7 @@ Research Experience 2022.9 - present The University of Texas at Austin Graduate 
       <pubDate>Fri, 23 Sep 2022 19:41:22 -0500</pubDate>
       
       <guid>/projects/randomized_channel_shuffling/</guid>
-      <description>Deep neural networks (DNNs) typically require massive data to train on, which is a hurdle for numerous practical domains. Facing the data shortfall, one viable option is to acquire domains-specific training data from external uncensored sources, such as the open web or the third-party data collectors. However, the quality of such acquired data is often not rigorously scrutinized, and one cannot easily rule out the risk of &amp;ldquo;poisoned&amp;rdquo; examples being included in such unreliable datasets, resulting in unreliable models which pose potential risks to many data-hungry, or high-stake applications.</description>
+      <description>Deep neural networks (DNNs) typically require massive data to train on, which is a hurdle for numerous practical domains. Facing the data shortfall, one viable option is to acquire domain-specific training data from external uncensored sources, such as open webs or third-party data collectors. However, the quality of such acquired data is often not rigorously scrutinized, and one cannot easily rule out the risk of ``poisoned&amp;rsquo;&amp;rsquo; examples being included in such unreliable datasets, resulting in unreliable trained models which pose potential risks to many high-stake applications.</description>
     </item>
     
     <item>
