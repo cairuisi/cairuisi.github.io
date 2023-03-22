@@ -22,12 +22,8 @@ draft: false
   - Graduate research assistant, advised by Prof. Atlas Wang.
 - *2021.7 - 2022.6* &#8195;**The University of Texas at Austin**
   - Remote research intern, advised by Prof. Atlas Wang.
-  - Found that clean image features and trigger features are different in terms of their activation distribution in channels, as well as their sensitivity to channel re-ordering. 
-  - Proposed an effective approach with minimal overhead based on channel shuffling to help users detect backdoor attacks without the access to clean samples, nor the need to retrain models. 
 - *2020.5 - 2021.5* &#160;&#8195;**University of Science and Technology of China**
   - Undergraduate research assistant, advised by Prof. Dong Liu.
-  - Formulated a way to better utilize the super resolution results from neighboring frames, trying to achieve real-time performance.
-  - Proposed to roughly segment the image based on optical flow, and to only run super resolution methods on areas that change much.
 
 ## Awards
 - *Oct 2021* &#8195;&#8194; Suzhou Talent scholarship (top 5% at USTC)
@@ -41,6 +37,6 @@ draft: false
 - **Programming Languages:** C, Python, MATLAB, Verilog
 - **Applications:** AutoCAD, Solidworks, Photoshop, Origin
 
-<!-- ## Professional Service
+## Professional Service
 - **Reviewer**
-    - ICASSP 2023 -->
+    - ICML 2023, ICASSP 2023
