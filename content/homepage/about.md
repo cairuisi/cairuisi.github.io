@@ -52,6 +52,7 @@ My research focus on machine learning, my (growing) research interests include:
 * **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
 
 ## NEWS
+* Apr, 2023. "Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?" is accepted by **ICML2023**!
 * Feb, 2023. "Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?" is available on [ArXiv](https://arxiv.org/abs/2302.12480)!
 * Sep, 2022. "Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets" is accepted by **NeurIPS2022**!
 * Sep, 2022. My personal webpage is on!

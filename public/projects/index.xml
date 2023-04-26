@@ -18,5 +18,14 @@
       <description>Deep neural networks (DNNs) typically require massive data to train on, which is a hurdle for numerous practical domains. Facing the data shortfall, one viable option is to acquire domain-specific training data from external uncensored sources, such as open webs or third-party data collectors. However, the quality of such acquired data is often not rigorously scrutinized, and one cannot easily rule out the risk of ``poisoned&amp;rsquo;&amp;rsquo; examples being included in such unreliable datasets, resulting in unreliable trained models which pose potential risks to many high-stake applications.</description>
     </item>
     
+    <item>
+      <title>Robust Weight Signatures Gaining Robustness as Easy as Patching Weights?</title>
+      <link>/projects/robust_weight-signatures/</link>
+      <pubDate>Mon, 28 Feb 2022 19:41:22 -0500</pubDate>
+      
+      <guid>/projects/robust_weight-signatures/</guid>
+      <description>Given a robust model trained to be resilient to one or multiple types of distribution shifts (e.g., natural image corruptions), how is that &amp;ldquo;robustness&amp;rdquo; encoded in the model weights, and how easily can it be disentangled and/or &amp;ldquo;zero-shot&amp;rdquo; transferred to some other models? This paper empirically suggests a surprisingly simple answer: linearly - by straightforward model weight arithmetic! We start by drawing several key observations: (1)assuming that we train the same model architecture on both a clean dataset and its corrupted version, resultant weights mostly differ in shallow layers; (2)the weight difference after projection, which we call &amp;ldquo;Robust Weight Signature&amp;rdquo; (RWS), appears to be discriminative and indicative of different corruption types; (3)for the same corruption type, the RWSs obtained by one model architecture are highly consistent and transferable across different datasets.</description>
+    </item>
+    
   </channel>
 </rss>
