@@ -13,7 +13,7 @@ social:
     url: mailto:ruisi.cai@utexas.edu
   - icon: twitter
     iconPack: fab
-    url: https://twitter.com/cccrs_0908
+    url: https://twitter.com/ccccrs_0908
   - icon: github
     iconPack: fab
     url: https://github.com/cairuisi
