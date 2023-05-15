@@ -20,9 +20,9 @@ draft: false
 ## Research Experience
 - *2022.9 - present* &#160;**The University of Texas at Austin**
   - Graduate research assistant, advised by Prof. Atlas Wang.
-- *2021.7 - 2022.6* &#8195;**The University of Texas at Austin**
-  - Remote research intern, advised by Prof. Atlas Wang.
-- *2020.5 - 2021.5* &#160;&#8195;**University of Science and Technology of China**
+<!-- - *2021.7 - 2022.6* &#8195;**The University of Texas at Austin**
+  - Remote research intern, advised by Prof. Atlas Wang. -->
+- *2020.5 - 2022.5* &#160;&#8195;**University of Science and Technology of China**
   - Undergraduate research assistant, advised by Prof. Dong Liu.
 
 ## Awards
