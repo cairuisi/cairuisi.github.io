@@ -47,7 +47,7 @@ widget:
 
 I'm a first year Ph.D. student in the [VITA Group](https://vita-group.github.io/) of [Electrical and Computer Engineering Department](https://www.ece.utexas.edu/), [the Univeristiy of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. Zhangyang (Atlas) Wang. Prior to that, I obatined my B.E. degree from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). [[CV]](https://drive.google.com/file/d/1jDtj22gmze4FW69HvT2HnUB8u0Htea0_/view?usp=sharing)
 
-My research focus on machine learning, my (growing) research interests include:
+My research focus is to use machine learning techniques, to solve image and video processing application problems. My (growing) research interests include:
 * **Efficient Model Training**: Model Merging & Recycling, Mixture of Experts (MoE)
 * **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
 
