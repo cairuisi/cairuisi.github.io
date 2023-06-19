@@ -65,7 +65,7 @@ My research focus is to use <u>machine learning </u> techniques, to solve <u>ima
 *ICML2023: International Conference on Machine Learning* [\[Paper\]](https://arxiv.org/pdf/2302.12480) [\[Code\]](https://github.com/VITA-Group/Robust_Weight_Signatures)
 
 **Many-Task Federated Learning: A New Problem Setting and a Simple Baseline**  
-**Ruisi Cai**, Xiaohan Chen, Shiwei Liu, Jayanth Srinivasa, Myungjin Lee, Ramana Kompella, Zhangyang Wang
+**Ruisi Cai**, Xiaohan Chen, Shiwei Liu, Jayanth Srinivasa, Myungjin Lee, Ramana Kompella, Zhangyang Wang  
 *CVPRW: 2nd Workshop on Federated Learning for Computer Vision* [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023W/FedVision/papers/Cai_Many-Task_Federated_Learning_A_New_Problem_Setting_and_a_Simple_CVPRW_2023_paper.pdf)
 
 **Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets**  
