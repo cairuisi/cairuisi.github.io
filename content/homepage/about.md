@@ -60,6 +60,10 @@ My research focus is to use <u>machine learning </u> techniques, to solve <u>ima
 ## Publication List
 (A superscript * denotes equal contribution)
 
+**$\mathrm{H_2O}$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models**   
+Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, **Ruisi Cai**, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen  
+Published in arXiv, [\[Paper\]](https://arxiv.org/pdf/2306.14048.pdf) [\[Code\]](https://github.com/FMInference/H2O)
+
 **Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?**  
 **Ruisi Cai**, Zhenyu Zhang, Zhangyang Wang  
 *ICML2023: International Conference on Machine Learning* [\[Paper\]](https://arxiv.org/pdf/2302.12480) [\[Code\]](https://github.com/VITA-Group/Robust_Weight_Signatures)
