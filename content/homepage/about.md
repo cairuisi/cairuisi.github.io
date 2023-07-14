@@ -52,6 +52,7 @@ My research focus is to use <u>machine learning </u> techniques, to solve <u>ima
 * **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
 
 ## NEWS
+* Jul, 2023. "Robust Mixture-of-Expert Training for Convolutional Neural Networks" is accepted by **ICCV2023**!
 * Apr, 2023. "Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?" is accepted by **ICML2023**!
 * Feb, 2023. "Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?" is available on [ArXiv](https://arxiv.org/abs/2302.12480)!
 * Sep, 2022. "Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets" is accepted by **NeurIPS2022**!
@@ -59,6 +60,10 @@ My research focus is to use <u>machine learning </u> techniques, to solve <u>ima
 
 ## Publication List
 (A superscript * denotes equal contribution)
+
+**Robust Mixture-of-Expert Training for Convolutional Neural Networks**  
+Yihua Zhang, **Ruisi Cai**, Tianlong Chen, Guanhua Zhang, Huan Zhang, Pin-Yu Chen, Shiyu Chang, Zhangyang Wang, Sijia Liu  
+*ICCV2023: International Conference on Computer Vision* 
 
 **$\mathrm{H_2O}$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models**   
 Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, **Ruisi Cai**, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen  
