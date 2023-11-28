@@ -18,7 +18,7 @@ draft: false
 - *2018-2022* &#8195;&#8194;&#160;  B.E. in Electronic Information Engineering, University of Science and Technology of China
   
 ## Research Experience
-- *2023.9 - present* **Nvidia Corporation**
+- *2023.9 - present* &#160;**Nvidia Corporation**
   - Research Intern
 - *2022.9 - present* &#160;**The University of Texas at Austin**
   - Graduate research assistant, advised by Prof. Atlas Wang.
