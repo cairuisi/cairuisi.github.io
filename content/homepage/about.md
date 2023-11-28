@@ -47,8 +47,8 @@ widget:
 
 I'm a first year Ph.D. student in the [VITA Group](https://vita-group.github.io/) of [Electrical and Computer Engineering Department](https://www.ece.utexas.edu/), [the Univeristiy of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. Zhangyang (Atlas) Wang. Prior to that, I obatined my B.E. degree from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). [[CV]](https://drive.google.com/file/d/1jDtj22gmze4FW69HvT2HnUB8u0Htea0_/view?usp=sharing)
 
-My research focus is to use <u>machine learning </u> techniques, to solve <u>image and video processing </u> application problems. My (growing) research interests include: 
-* **Efficient Model Training**: Model Merging & Recycling, Mixture of Experts (MoE)
+I'm currently working on <u>machine learning </u>, with research focus on: 
+* **Efficient Model Training**: Mixture of Experts (MoE), Model Merging & Recycling
 * **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
 
 ## NEWS
@@ -63,11 +63,11 @@ My research focus is to use <u>machine learning </u> techniques, to solve <u>ima
 
 **Robust Mixture-of-Expert Training for Convolutional Neural Networks**  
 Yihua Zhang, **Ruisi Cai**, Tianlong Chen, Guanhua Zhang, Huan Zhang, Pin-Yu Chen, Shiyu Chang, Zhangyang Wang, Sijia Liu  
-*ICCV2023: International Conference on Computer Vision* 
+*ICCV2023: International Conference on Computer Vision* [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Robust_Mixture-of-Expert_Training_for_Convolutional_Neural_Networks_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/optml-group/robust-moe-cnn)
 
 **$\mathrm{H_2O}$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models**   
 Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, **Ruisi Cai**, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen  
-Published in arXiv, [\[Paper\]](https://arxiv.org/pdf/2306.14048.pdf) [\[Code\]](https://github.com/FMInference/H2O)
+*NeurIPS2023: Conference on Neural Information Processing Systems*, [\[Paper\]](https://arxiv.org/pdf/2306.14048.pdf) [\[Code\]](https://github.com/FMInference/H2O)
 
 **Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?**  
 **Ruisi Cai**, Zhenyu Zhang, Zhangyang Wang  
