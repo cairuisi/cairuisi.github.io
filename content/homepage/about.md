@@ -2,7 +2,7 @@
 title: Ruisi Cai
 draft: false
 role: Ph.D Student
-avatar: images/icon.jpeg
+avatar: images/Ruisi.jpg
 bio: 
 organization:
   name: UT Austin
