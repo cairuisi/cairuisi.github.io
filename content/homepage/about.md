@@ -52,6 +52,8 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 * **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
 
 ## NEWS
+* Sep, 2023. I've just begun my incredible internship journey in NVIDIA.
+* Sep, 2023. "$\mathrm{H_2O}$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models" is accepted by **NeurIPS2023**!
 * Jul, 2023. "Robust Mixture-of-Expert Training for Convolutional Neural Networks" is accepted by **ICCV2023**!
 * Apr, 2023. "Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?" is accepted by **ICML2023**!
 * Feb, 2023. "Robust Weight Signatures: Gaining Robustness as Easy as Patching Weights?" is available on [ArXiv](https://arxiv.org/abs/2302.12480)!
