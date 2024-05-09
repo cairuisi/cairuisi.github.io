@@ -52,6 +52,8 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 * **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
 
 ## NEWS
+* May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted by **ICML2024**!
+* May, 2024. "Learning to Compress Long Contexts by Dropping-In Convolutions" is accepted by **ICML2024**!
 * Sep, 2023. I've just begun my incredible internship journey in NVIDIA.
 * Sep, 2023. "$\mathrm{H_2O}$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models" is accepted by **NeurIPS2023**!
 * Jul, 2023. "Robust Mixture-of-Expert Training for Convolutional Neural Networks" is accepted by **ICCV2023**!
@@ -62,6 +64,14 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 
 ## Publication List
 (A superscript * denotes equal contribution)
+
+**Flextron: Many-in-One Flexible Large Language Model**
+**Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov
+*ICML2024: International Conference on Machine Learning*
+
+**Learning to Compress Long Contexts by Dropping-In Convolutions**
+**Ruisi Cai**, Yuandong Tian, Zhangyang Wang, Beidi Chen
+*ICML2024: International Conference on Machine Learning*
 
 **Robust Mixture-of-Expert Training for Convolutional Neural Networks**  
 Yihua Zhang, **Ruisi Cai**, Tianlong Chen, Guanhua Zhang, Huan Zhang, Pin-Yu Chen, Shiyu Chang, Zhangyang Wang, Sijia Liu  
