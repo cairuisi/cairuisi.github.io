@@ -66,11 +66,11 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 (A superscript * denotes equal contribution)
 
 **Flextron: Many-in-One Flexible Large Language Model**  
-**Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov
+**Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov  
 *ICML2024: International Conference on Machine Learning*
 
 **Learning to Compress Long Contexts by Dropping-In Convolutions**  
-**Ruisi Cai**, Yuandong Tian, Zhangyang Wang, Beidi Chen
+**Ruisi Cai**, Yuandong Tian, Zhangyang Wang, Beidi Chen  
 *ICML2024: International Conference on Machine Learning*
 
 **Robust Mixture-of-Expert Training for Convolutional Neural Networks**  
