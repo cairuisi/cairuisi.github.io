@@ -6,8 +6,8 @@ authors: []
 tags: []
 categories: []
 series: []
-date: '2022-09-23T19:41:22-05:00'
-lastmod: '2022-09-21T19:41:22-05:00'
+date: '2024-06-03T19:41:22-05:00'
+lastmod: '2024-06-03T19:41:22-05:00'
 featuredImage: ""
 draft: false
 ---
@@ -19,7 +19,7 @@ draft: false
   
 ## Research Experience
 - *2023.9 - present* &#160;**Nvidia Corporation**
-  - Research Intern
+  - Research Intern, advised by Dr. Pavlo Molchanov.
 - *2022.9 - present* &#160;**The University of Texas at Austin**
   - Graduate research assistant, advised by Prof. Atlas Wang.
 <!-- - *2021.7 - 2022.6* &#8195;**The University of Texas at Austin**
@@ -28,6 +28,8 @@ draft: false
   - Undergraduate research assistant, advised by Prof. Dong Liu.
 
 ## Awards
+- *Feb 2024* &#8195;&#160; North America Qualcomm Innovation Fellowship Finalist
+- *Oct 2022* &#8195;&#160; NeurIPS Student Travel Award Grants
 - *Oct 2021* &#8195;&#8194; Suzhou Talent scholarship (top 5% at USTC)
 - *Nov 2020* &#8194;&#160;&#160; Second Prize in Chinese Mathematical Competitions for University Students
 - *Oct 2020* &#8195;&#8194;Silver Prize for Outstanding Student Scholarship (top 10% at USTC)
@@ -42,4 +44,4 @@ draft: false
 ## Professional Service
 - **Reviewer**
     - ICML 2023, NeurIPS 2023, ICASSP 2023
-    - ICLR 2024
+    - ICLR 2024, ICML 2024, NeurIPS 2023, ECCV 2024, IJCAI 2024
