@@ -52,8 +52,9 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 * **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
 
 ## NEWS
-* May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted by **ICML2024**!
+* May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted for Oral Presentation at **ICML2024**!
 * May, 2024. "Learning to Compress Long Contexts by Dropping-In Convolutions" is accepted by **ICML2024**!
+* Feb, 2024. My teammate, [Yeonju Ro](https://sites.google.com/view/hey-yeonju), and I have been chosen as finalists for the 2024 Qualcomm Innovation Fellowship.
 * Sep, 2023. I've just begun my incredible internship journey in NVIDIA.
 * Sep, 2023. "$\mathrm{H_2O}$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models" is accepted by **NeurIPS2023**!
 * Jul, 2023. "Robust Mixture-of-Expert Training for Convolutional Neural Networks" is accepted by **ICCV2023**!
@@ -67,7 +68,7 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 
 **Flextron: Many-in-One Flexible Large Language Model**  
 **Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov  
-*ICML2024: International Conference on Machine Learning*
+*ICML2024: International Conference on Machine Learning <span style="color:red">(Oral)</span>*
 
 **Learning to Compress Long Contexts by Dropping-In Convolutions**  
 **Ruisi Cai**, Yuandong Tian, Zhangyang Wang, Beidi Chen  
@@ -75,7 +76,7 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 
 **Robust Mixture-of-Expert Training for Convolutional Neural Networks**  
 Yihua Zhang, **Ruisi Cai**, Tianlong Chen, Guanhua Zhang, Huan Zhang, Pin-Yu Chen, Shiyu Chang, Zhangyang Wang, Sijia Liu  
-*ICCV2023: International Conference on Computer Vision* [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Robust_Mixture-of-Expert_Training_for_Convolutional_Neural_Networks_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/optml-group/robust-moe-cnn)
+*ICCV2023: International Conference on Computer Vision <span style="color:red">(Oral)</span>* [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Robust_Mixture-of-Expert_Training_for_Convolutional_Neural_Networks_ICCV_2023_paper.pdf) [\[Code\]](https://github.com/optml-group/robust-moe-cnn)
 
 **$\mathrm{H_2O}$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models**   
 Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, **Ruisi Cai**, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen  
