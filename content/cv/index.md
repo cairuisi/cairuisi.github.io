@@ -30,6 +30,7 @@ draft: false
 ## Awards
 - *Feb 2024* &#8195;&#160; North America Qualcomm Innovation Fellowship Finalist
 - *Oct 2022* &#8195;&#160; NeurIPS Student Travel Award Grants
+- *Aug 2022* &#8195;&#160; UT Austin Cockrell Engineering Fellowship
 - *Oct 2021* &#8195;&#8194; Suzhou Talent scholarship (top 5% at USTC)
 - *Nov 2020* &#8194;&#160;&#160; Second Prize in Chinese Mathematical Competitions for University Students
 - *Oct 2020* &#8195;&#8194;Silver Prize for Outstanding Student Scholarship (top 10% at USTC)
