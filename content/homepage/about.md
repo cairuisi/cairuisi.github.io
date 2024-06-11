@@ -72,7 +72,7 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 
 **Learning to Compress Long Contexts by Dropping-In Convolutions**  
 **Ruisi Cai**, Yuandong Tian, Zhangyang Wang, Beidi Chen  
-*ICML2024: International Conference on Machine Learning*
+*ICML2024: International Conference on Machine Learning*, [\[Paper\]](https://arxiv.org/abs/2406.05317) [\[Code\]](https://github.com/VITA-Group/LoCoCo)
 
 **Robust Mixture-of-Expert Training for Convolutional Neural Networks**  
 Yihua Zhang, **Ruisi Cai**, Tianlong Chen, Guanhua Zhang, Huan Zhang, Pin-Yu Chen, Shiyu Chang, Zhangyang Wang, Sijia Liu  
