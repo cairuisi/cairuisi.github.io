@@ -53,7 +53,7 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 
 ## NEWS
 * May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted for Oral Presentation at **ICML2024**!
-* May, 2024. "Learning to Compress Long Contexts by Dropping-In Convolutions" is accepted by **ICML2024**!
+* May, 2024. "LoCoCo: Dropping In Convolutions for Long Context Compression" is accepted by **ICML2024**!
 * Feb, 2024. My teammate, [Yeonju Ro](https://sites.google.com/view/hey-yeonju), and I have been chosen as finalists for the 2024 Qualcomm Innovation Fellowship.
 * Sep, 2023. I've just begun my incredible internship journey in NVIDIA.
 * Sep, 2023. "$\mathrm{H_2O}$: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models" is accepted by **NeurIPS2023**!
@@ -68,7 +68,7 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 **Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov  
 *ICML2024: International Conference on Machine Learning <span style="color:red">(Oral)</span>*, [\[Paper\]](https://arxiv.org/pdf/2406.10260) [\[Project\]](https://cairuisi.github.io/Flextron/)
 
-**Learning to Compress Long Contexts by Dropping-In Convolutions**  
+**LoCoCo: Dropping In Convolutions for Long Context Compression**  
 **Ruisi Cai**, Yuandong Tian, Zhangyang Wang, Beidi Chen  
 *ICML2024: International Conference on Machine Learning*, [\[Paper\]](https://arxiv.org/abs/2406.05317) [\[Code\]](https://github.com/VITA-Group/LoCoCo)
 
