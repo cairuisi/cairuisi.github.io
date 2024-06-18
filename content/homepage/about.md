@@ -66,7 +66,7 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 
 **Flextron: Many-in-One Flexible Large Language Model**  
 **Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov  
-*ICML2024: International Conference on Machine Learning <span style="color:red">(Oral)</span>*
+*ICML2024: International Conference on Machine Learning <span style="color:red">(Oral)</span>*, [\[Paper\]](https://arxiv.org/pdf/2406.10260) [\[Project\]](https://cairuisi.github.io/Flextron/)
 
 **Learning to Compress Long Contexts by Dropping-In Convolutions**  
 **Ruisi Cai**, Yuandong Tian, Zhangyang Wang, Beidi Chen  
