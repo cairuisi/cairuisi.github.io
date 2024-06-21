@@ -52,7 +52,7 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 * **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
 
 ## NEWS
-* May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted for Oral Presentation at **ICML2024**!
+* May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted for Oral Presentation at **ICML2024**! Check out our work at [\[Project Page\]](https://cairuisi.github.io/Flextron/)!
 * May, 2024. "LoCoCo: Dropping In Convolutions for Long Context Compression" is accepted by **ICML2024**!
 * Feb, 2024. My teammate, [Yeonju Ro](https://sites.google.com/view/hey-yeonju), and I have been chosen as finalists for the 2024 Qualcomm Innovation Fellowship.
 * Sep, 2023. I've just begun my incredible internship journey in NVIDIA.
