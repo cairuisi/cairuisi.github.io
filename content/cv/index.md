@@ -37,12 +37,12 @@ draft: false
 - *May 2020* &#8194;&#8194;&#160;First Prize (Team) at 2020 USTC Innovation Contest on Energy Saving & Emission Reduction
 - *Oct 2019* &#8195;&#8194;&#160;Silver Prize for Outstanding Student Scholarship (top 10% at USTC)
 
-## Skills
+<!-- ## Skills
 - **Deep Learning Frameworks:** Pytorch, Tensorflow
 - **Programming Languages:** C, Python, MATLAB, Verilog
-- **Applications:** AutoCAD, Solidworks, Photoshop, Origin
+- **Applications:** AutoCAD, Solidworks, Photoshop, Origin -->
 
 ## Professional Service
 - **Reviewer**
     - ICML 2023, NeurIPS 2023, ICASSP 2023
-    - ICLR 2024, ICML 2024, NeurIPS 2023, ECCV 2024, IJCAI 2024
+    - ICLR 2024, ICML 2024, NeurIPS 2024, ECCV 2024, IJCAI 2024
