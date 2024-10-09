@@ -45,13 +45,19 @@ widget:
 
 ## About Me
 
-I'm a second year Ph.D. student in the [VITA Group](https://vita-group.github.io/) of [Electrical and Computer Engineering Department](https://www.ece.utexas.edu/), [the Univeristiy of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. Zhangyang (Atlas) Wang. Prior to that, I obatined my B.E. degree from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/). [[CV]](https://cairuisi.github.io/cv/)
+I'm a second year Ph.D. student in the [VITA Group](https://vita-group.github.io/) of [Electrical and Computer Engineering Department](https://www.ece.utexas.edu/), [the Univeristiy of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. Zhangyang (Atlas) Wang. Prior to that, I obatined my B.E. degree from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
 
 I'm currently working on <u>machine learning </u>, with research focus on: 
-* **Efficient Model Training**: Mixture of Experts (MoE), Model Merging & Recycling
-* **Trustworthy Machine Learning System**: Adversarial Robustness, Data Poisoning, Federated Learning
+* **Efficient training and inference for large foundation models**: 
+  - Adaptive Framework: Elastic Model for Adaptive Deployment, Mixture of Experts (MoE)
+  - Long Context Generation: Long Context Training \& Serving, State Space Model (SSM)
+* **AI security and privacy**: 
+  - Trustworthy ML, Robustness for Mixture of Experts (MoE), Backdoor Attack
+  - Distributed Training, Task Heterogeneity, Data Scaling
 
 ## NEWS
+* Sep, 2024. "READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design" is accepted by  **NeurIPS2024**. Code and checkpoints are comming!
+* Sep, 2024. "Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild" is accepted by  **NeurIPS2024** D&B track.
 * May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted for Oral Presentation at **ICML2024**! Check out our work at [\[Project Page\]](https://cairuisi.github.io/Flextron/)!
 * May, 2024. "LoCoCo: Dropping In Convolutions for Long Context Compression" is accepted by **ICML2024**!
 * Feb, 2024. My teammate, [Yeonju Ro](https://sites.google.com/view/hey-yeonju), and I have been chosen as finalists for the 2024 Qualcomm Innovation Fellowship.
@@ -63,6 +69,14 @@ I'm currently working on <u>machine learning </u>, with research focus on:
 
 ## Publication List
 (A superscript * denotes equal contribution)
+
+**READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design** 
+**Ruisi Cai**, Yeonju Ro, Geon-Woo Kim, Peihao Wang, Babak Ehteshami Bejnordi, Aditya Akella, Zhangyang Wang 
+*NeurIPS2024: Conference on Neural Information Processing Systems*
+
+**Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild** 
+Xinyu Zhao, Guoheng Sun, **Ruisi Cai**, Yukun Zhou, Pingzhi Li, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, Binhang Yuan, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen 
+*NeurIPS2024 D&B: Datasets and Benchmarks Track, Conference on Neural Information Processing Systems*
 
 **Flextron: Many-in-One Flexible Large Language Model**  
 **Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov  
