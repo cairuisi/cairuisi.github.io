@@ -71,11 +71,11 @@ I'm currently working on machine learning, with research focus on:
 (A superscript * denotes equal contribution)
 
 **READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design** 
-**Ruisi Cai**, Yeonju Ro, Geon-Woo Kim, Peihao Wang, Babak Ehteshami Bejnordi, Aditya Akella, Zhangyang Wang 
+**Ruisi Cai**, Yeonju Ro, Geon-Woo Kim, Peihao Wang, Babak Ehteshami Bejnordi, Aditya Akella, Zhangyang Wang  
 *NeurIPS2024: Conference on Neural Information Processing Systems*
 
 **Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild** 
-Xinyu Zhao, Guoheng Sun, **Ruisi Cai**, Yukun Zhou, Pingzhi Li, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, Binhang Yuan, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen 
+Xinyu Zhao, Guoheng Sun, **Ruisi Cai**, Yukun Zhou, Pingzhi Li, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, Binhang Yuan, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen  
 *NeurIPS2024 D&B: Datasets and Benchmarks Track, Conference on Neural Information Processing Systems*
 
 **Flextron: Many-in-One Flexible Large Language Model**  
