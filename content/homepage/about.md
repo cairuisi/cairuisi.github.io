@@ -76,7 +76,7 @@ I'm currently working on machine learning, with research focus on:
 
 **Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild** 
 Xinyu Zhao, Guoheng Sun, **Ruisi Cai**, Yukun Zhou, Pingzhi Li, Peihao Wang, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, Binhang Yuan, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen  
-*NeurIPS2024 D&B: Datasets and Benchmarks Track, Conference on Neural Information Processing Systems*
+*NeurIPS2024 D&B: Datasets and Benchmarks Track, Conference on Neural Information Processing Systems*, [\[Paper\]](https://arxiv.org/pdf/2410.05357) [\[Code\]](https://github.com/Model-GLUE/Model-GLUE)   
 
 **Flextron: Many-in-One Flexible Large Language Model**  
 **Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov  
