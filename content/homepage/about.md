@@ -45,7 +45,7 @@ widget:
 
 ## About Me
 
-I'm a second year Ph.D. student in the [VITA Group](https://vita-group.github.io/) of [Electrical and Computer Engineering Department](https://www.ece.utexas.edu/), [the Univeristiy of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. Zhangyang (Atlas) Wang. Prior to that, I obatined my B.E. degree from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
+I'm a third year Ph.D. student in the [VITA Group](https://vita-group.github.io/) of [Electrical and Computer Engineering Department](https://www.ece.utexas.edu/), [the Univeristiy of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. Zhangyang (Atlas) Wang. Prior to that, I obatined my B.E. degree from [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/).
 
 I'm currently working on machine learning, with research focus on: 
 * **Efficient training and inference for large foundation models**: 
