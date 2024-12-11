@@ -56,7 +56,7 @@ I'm currently working on machine learning, with research focus on:
   - Distributed Training, Task Heterogeneity, Data Scaling
 
 ## NEWS
-* Dec. 2024. Excited to announce that I have been selected as a recipient of the NVIDIA Fellowship. Thank you, NVIDIA!
+* Dec. 2024. Excited to announce that I have been selected as a recipient of the NVIDIA Fellowship. Thank you, NVIDIA! 💚
 * Sep, 2024. "READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design" is accepted by  **NeurIPS2024**. Code and checkpoints are comming!
 * Sep, 2024. "Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild" is accepted by  **NeurIPS2024** D&B track.
 * May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted for Oral Presentation at **ICML2024**! Check out our work at [\[Project Page\]](https://cairuisi.github.io/Flextron/)!
