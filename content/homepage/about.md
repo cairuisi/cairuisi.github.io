@@ -57,7 +57,7 @@ I'm currently working on machine learning, with research focus on:
 
 ## NEWS
 * Dec. 2024. Excited to announce that I have been selected as a recipient of the [NVIDIA Fellowship](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/). Thank you, NVIDIA! 💚
-* Sep, 2024. "READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design" is accepted by  **NeurIPS2024**. Code and checkpoints are comming!
+* Sep, 2024. "READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design" is accepted by  **NeurIPS2024**. 
 * Sep, 2024. "Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild" is accepted by  **NeurIPS2024** D&B track.
 * May, 2024. My intern project at NVIDIA "Flextron: Many-in-One Flexible Large Language Model" is accepted for Oral Presentation at **ICML2024**! Check out our work at [\[Project Page\]](https://cairuisi.github.io/Flextron/)!
 * May, 2024. "LoCoCo: Dropping In Convolutions for Long Context Compression" is accepted by **ICML2024**!
@@ -73,7 +73,7 @@ I'm currently working on machine learning, with research focus on:
 
 **READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design**    
 **Ruisi Cai\***, Yeonju Ro\*, Geon-Woo Kim, Peihao Wang, Babak Ehteshami Bejnordi, Aditya Akella, Zhangyang Wang  
-*NeurIPS2024: Conference on Neural Information Processing Systems*
+*NeurIPS2024: Conference on Neural Information Processing Systems*, [\[Paper\]](https://arxiv.org/pdf/2410.19123) [\[Code\]](https://github.com/VITA-Group/READ-ME) 
 
 **Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild**   
 Xinyu Zhao\*, Guoheng Sun\*, **Ruisi Cai\***, Yukun Zhou\*, Pingzhi Li\*, Peihao Wang\*, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, Binhang Yuan, Hongyi Wang, Ang Li, Zhangyang Wang, Tianlong Chen  
