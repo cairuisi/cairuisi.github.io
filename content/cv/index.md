@@ -18,8 +18,8 @@ draft: false
 - *2018-2022* &#8195;&#8194;&#160;  B.E. in Electronic Information Engineering, University of Science and Technology of China
   
 ## Research Experience
-- *2023.9 - present* &#160;**Nvidia Corporation**
-  - Research Intern, advised by Dr. Pavlo Molchanov.
+- *2023.9 - 2024.12* &#160;**Nvidia Corporation**
+  - Research Intern at [DLER team](https://nv-dler.github.io/horseshoeketchup.github.io/), advised by Dr. Pavlo Molchanov.
 - *2022.9 - present* &#160;**The University of Texas at Austin**
   - Graduate research assistant, advised by Prof. Atlas Wang.
 <!-- - *2021.7 - 2022.6* &#8195;**The University of Texas at Austin**
@@ -28,7 +28,8 @@ draft: false
   - Undergraduate research assistant, advised by Prof. Dong Liu.
 
 ## Awards
-- *Feb 2024* &#8195;&#160; North America Qualcomm Innovation Fellowship Finalist
+- *Dec 2024* &#8195;&#160; NVIDIA Graduate Fellowshop [\[link\]](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/)
+- *Feb 2024* &#8195;&#160; North America Qualcomm Innovation Fellowship Finalist [\[link\]](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)
 - *Oct 2022* &#8195;&#160; NeurIPS Student Travel Award Grants
 - *Aug 2022* &#8195;&#160; UT Austin Cockrell Engineering Fellowship
 - *Oct 2021* &#8195;&#8194; Suzhou Talent scholarship (top 5% at USTC)
