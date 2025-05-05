@@ -56,6 +56,8 @@ I'm currently working on machine learning, with research focus on:
   - Distributed Training, Task Heterogeneity, Data Scaling
 
 ## NEWS
+* Mar. 2025. Excited to share that I have been selected to receive the ML and Systems Rising Star Awards 2025.
+* Feb. 2025. Began my exciting internship in Citadel Securities.
 * Dec. 2024. Excited to announce that I have been selected as a recipient of the [NVIDIA Fellowship](https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2025-2026/). Thank you, NVIDIA! 💚
 * Sep, 2024. "READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design" is accepted by  **NeurIPS2024**. 
 * Sep, 2024. "Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild" is accepted by  **NeurIPS2024** D&B track.
@@ -70,6 +72,26 @@ I'm currently working on machine learning, with research focus on:
 
 ## Publication List
 (A superscript * denotes equal contribution)
+
+**Rethinking Addressing in Language Models via Contextualized Equivariant Positional Encoding**  
+Jiajun Zhu, Peihao Wang, **Ruisi Cai**, Jason D. Lee, Zhangyang Wang, Pan Li  
+*ICML2025: International Conference on Machine Learning*, [\[Paper\]](https://arxiv.org/pdf/2501.00712)
+
+**FlexGS: Train Once, Deploy Everywhere with Many-in-One Flexible 3D Gaussian Splatting**  
+Hengyu Liu, Yuehao Wang, Chenxin Li, **Ruisi Cai**, Kevin Wang, Wuyang Li, Pavlo Molchanov, Peihao Wang, Zhangyang Wang  
+*CVPR2025: IEEE Conference on Computer Vision and Pattern Recognition*  
+
+**Steepest Descent Density Control for Compact 3D Gaussian Splatting**  
+Peihao Wang, Yuehao Wang, Dilin Wang, Sreyas Mohan, Zhiwen Fan, Lemeng Wu, **Ruisi Cai**, Yu-Ying Yeh, Zhangyang Wang, qiang liu, Rakesh Ranjan  
+*CVPR2025: IEEE Conference on Computer Vision and Pattern Recognition*
+
+**LLaMaFlex: Many-in-one LLMs via Generalized Pruning and Weight Sharing**  
+**Ruisi Cai**, Saurav Muralidharan, Greg Heinrich, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov  
+*ICLR2025: International Conference on Learning Representations*, [\[Paper\]](https://openreview.net/pdf?id=AyC4uxx2HW) 
+
+**Understanding Bottlenecks of State Space Models through the Lens of Recency and Over-smoothing**  
+Peihao Wang, **Ruisi Cai**, Yuehao Wang, Jiajun Zhu, Pragya Srivastava, Zhangyang Wang, Pan Li  
+*ICLR2025: International Conference on Learning Representations*, [\[Paper\]](https://arxiv.org/pdf/2501.00658)
 
 **READ-ME: Refactorizing LLMs as Router-Decoupled Mixture of Experts with System Co-Design**    
 **Ruisi Cai\***, Yeonju Ro\*, Geon-Woo Kim, Peihao Wang, Babak Ehteshami Bejnordi, Aditya Akella, Zhangyang Wang  
