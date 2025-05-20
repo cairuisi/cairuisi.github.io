@@ -17,7 +17,9 @@ draft: false
 
 - *2018-2022* &#8195;&#8194;&#160;  B.E. in Electronic Information Engineering, University of Science and Technology of China
   
-## Research Experience
+## Experience
+- *2025.2 - present* &#160;**Citadel Securities**
+  - Quantitive Research Intern, advised by Dr. Florian Kreyssig, Dr. Zhuang Ma, and Dr. Dianqi Li.
 - *2023.9 - 2024.12* &#160;**Nvidia Corporation**
   - Research Intern at [DLER team](https://nv-dler.github.io/horseshoeketchup.github.io/), advised by Dr. Pavlo Molchanov.
 - *2022.9 - present* &#160;**The University of Texas at Austin**
