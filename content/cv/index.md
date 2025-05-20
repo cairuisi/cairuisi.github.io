@@ -48,9 +48,9 @@ draft: false
 - **Reviewer**
     - ICML 2023, NeurIPS 2023, ICASSP 2023
     - ICLR 2024, ICML 2024, NeurIPS 2024, ECCV 2024, IJCAI 2024
-    - ICLR 2025, ICML 2025, CVPR 2025
+    - ICLR 2025 [(Notable Reviewers)](https://iclr.cc/Conferences/2025/Reviewers), ICML 2025, CVPR 2025
 
 - **Invited Talk**
-    - *Apr 2025* &#8195;&#160;&#160; "Toward Adaptive Deployment of LLMs", Amazon, AGI group
-    - *May 2024* &#8195;&#160; "Flextron: Many-in-One Flexible Large Language Model", NVIDIA TinyLM Symposium
-    - *Mar 2023* &#8195;&#160; "Enhancing Model Trustworthiness via Weight-Space Merging", Michigan State University, CSE department
+    - *Apr 2025* &#8195;&#160;&#160; "Toward Adaptive Deployment of LLMs", Amazon, AGI group. Hosted by [Dr. Abhishek Kumar](https://abhishek.ml/)
+    - *May 2024* &#8195;&#160; "Flextron: Many-in-One Flexible Large Language Model", NVIDIA TinyLM Symposium. Hosted by [Dr. Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov)
+    - *Mar 2023* &#8195;&#160; "Enhancing Model Trustworthiness via Weight-Space Merging", Michigan State University, CSE department. Hosted by [Prof. Sjia Liu](https://lsjxjtu.github.io/)
